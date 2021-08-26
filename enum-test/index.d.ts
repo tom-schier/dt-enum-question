@@ -6,5 +6,5 @@
     }
     export interface SomeInterface {
         stringAttribute: string;
-        enumAttribute: EnumType;
+        enumAttribute?: EnumType;
     }
