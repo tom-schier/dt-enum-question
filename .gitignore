@@ -1,0 +1,17 @@
+node_modules
+.local-env
+dist
+log.txt
+tmp
+*.sqlite
+debug.log
+mochawesome-report
+*.zip
+.evidence
+FileWriter.log
+.nyc_output
+coverage
+.work
+.vagrant
+*.log
+*.tar.gz

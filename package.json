@@ -1,0 +1,11 @@
+{
+    "name": "dt-enum-question",
+    "version": "1.0.0",
+    "description": "",
+    "main": "service.ts",
+    "dependencies": {
+        "@types/express": "^4.17.13",
+        "@types/node": "^16.7.1",
+        "express": "^4.17.1"
+    }
+}
